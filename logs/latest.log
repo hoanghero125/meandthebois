@@ -1,0 +1,507 @@
+[00:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9517ms or 190 ticks behind
+[00:05:17] [Server thread/INFO]: Dekuran_VN issued server command: /enchant Dekuran_VN minecraft:looting 3
+[00:05:17] [Server thread/INFO]: [Dekuran_VN: Applied enchantment Looting III to Dekuran_VN's item]
+[00:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9780ms or 195 ticks behind
+[00:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9760ms or 195 ticks behind
+[00:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9051ms or 181 ticks behind
+[00:19:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[00:19:15] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[00:19:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:19:15] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11307ms or 226 ticks behind
+[00:19:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:19:15] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:19:15] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[00:19:15] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.find(Object2ObjectOpenHashMap.java:239)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.put(Object2ObjectOpenHashMap.java:257)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.CompoundTag.putFloat(CompoundTag.java:268)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.addAdditionalSaveData(LivingEntity.java:778)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.addAdditionalSaveData(Mob.java:431)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.piglin.AbstractPiglin.addAdditionalSaveData(AbstractPiglin.java:62)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.piglin.Piglin.addAdditionalSaveData(Piglin.java:156)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.addAdditionalSaveData(Entity.java:2700)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:2482)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:2370)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:2357)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.save(Entity.java:2377)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.level.entity.ChunkEntitySlices.saveEntityChunk0(ChunkEntitySlices.java:120)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.level.entity.ChunkEntitySlices.saveEntityChunk(ChunkEntitySlices.java:98)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.level.entity.ChunkEntitySlices.save(ChunkEntitySlices.java:150)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.saveEntities(NewChunkHolder.java:1805)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.save(NewChunkHolder.java:1727)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager.autoSave(ChunkHolderManager.java:247)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkMap.processUnloads(ChunkMap.java:430)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkMap.tick(ChunkMap.java:418)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:499)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:776)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1529)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[00:19:15] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[00:19:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:19:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:19:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9709ms or 194 ticks behind
+[00:26:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[00:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10379ms or 207 ticks behind
+[00:26:02] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[00:26:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:26:02] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:26:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:26:02] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:26:02] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[00:26:02] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.Enchantment.tick(Enchantment.java:338)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.lambda$tickEffects$17(EnchantmentHelper.java:257)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper$$Lambda/0x00007dbae5467bc0.accept(Unknown Source)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnItem(EnchantmentHelper.java:142)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnEquipment(EnchantmentHelper.java:151)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.tickEffects(EnchantmentHelper.java:257)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.baseTick(LivingEntity.java:442)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.baseTick(Mob.java:331)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.tick(Entity.java:816)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3109)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:398)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Skeleton.tick(Skeleton.java:68)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1270)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5466f70.accept(Unknown Source)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1499)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:817)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5460218.accept(Unknown Source)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:799)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1529)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[00:26:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[00:26:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:26:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:26:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7428ms or 148 ticks behind
+[00:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8998ms or 179 ticks behind
+[00:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8758ms or 175 ticks behind
+[00:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7936ms or 158 ticks behind
+[00:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7073ms or 141 ticks behind
+[00:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8869ms or 177 ticks behind
+[00:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9004ms or 180 ticks behind
+[00:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6850ms or 137 ticks behind
+[00:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7621ms or 152 ticks behind
+[00:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8595ms or 171 ticks behind
+[00:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8166ms or 163 ticks behind
+[01:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8844ms or 176 ticks behind
+[01:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9124ms or 182 ticks behind
+[01:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9448ms or 188 ticks behind
+[01:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9063ms or 181 ticks behind
+[01:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8611ms or 172 ticks behind
+[01:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8800ms or 176 ticks behind
+[01:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9678ms or 193 ticks behind
+[01:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8728ms or 174 ticks behind
+[01:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8628ms or 172 ticks behind
+[01:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9129ms or 182 ticks behind
+[01:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8733ms or 174 ticks behind
+[01:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
+[01:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8455ms or 169 ticks behind
+[01:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9073ms or 181 ticks behind
+[01:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9873ms or 197 ticks behind
+[01:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8115ms or 162 ticks behind
+[01:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9044ms or 180 ticks behind
+[01:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10471ms or 209 ticks behind
+[01:58:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[01:58:35] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[01:58:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:58:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[01:58:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:58:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:58:36] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[01:58:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.AbstractCollection.containsAll(AbstractCollection.java:310)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		com.google.common.collect.Sets$3.isEmpty(Sets.java:966)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.context.ContextMap$Builder.create(ContextMap.java:76)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootParams$Builder.create(LootParams.java:94)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.Enchantment.entityContext(Enchantment.java:439)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.Enchantment.tick(Enchantment.java:338)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.lambda$tickEffects$17(EnchantmentHelper.java:257)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper$$Lambda/0x00007dbae5467bc0.accept(Unknown Source)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnItem(EnchantmentHelper.java:142)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnEquipment(EnchantmentHelper.java:151)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.item.enchantment.EnchantmentHelper.tickEffects(EnchantmentHelper.java:257)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.baseTick(LivingEntity.java:442)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.baseTick(Mob.java:331)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.tick(Entity.java:816)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3109)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:398)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Skeleton.tick(Skeleton.java:68)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1270)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5466f70.accept(Unknown Source)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1499)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:817)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5460218.accept(Unknown Source)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:799)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1529)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[01:58:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[01:58:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:58:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[01:58:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10034ms or 200 ticks behind
+[02:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
+[02:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7816ms or 156 ticks behind
+[02:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9198ms or 183 ticks behind
+[02:11:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9079ms or 181 ticks behind
+[02:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7766ms or 155 ticks behind
+[02:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9765ms or 195 ticks behind
+[02:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6750ms or 135 ticks behind
+[02:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8821ms or 176 ticks behind
+[02:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8032ms or 160 ticks behind
+[02:25:54] [Server thread/INFO]: Villager Villager['Villager'/162794, uuid='681bfd41-ae9a-4115-9172-3ef539ca53ff', l='ServerLevel[world]', x=14.85, y=51.00, z=166.61, cpos=[0, 10], tl=24199, v=true] died, message: 'Villager suffocated in a wall'
+[02:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8257ms or 165 ticks behind
+[02:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
+[02:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9229ms or 184 ticks behind
+[02:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8649ms or 172 ticks behind
+[02:35:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[02:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19096ms or 381 ticks behind
+[02:35:35] [Paper Watchdog Thread/ERROR]: The server has not responded for 19 seconds! Creating thread dump
+[02:35:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:35:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:35:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:35:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[02:35:36] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[02:35:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.park(Native Method)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1398)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[02:35:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[02:35:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:35:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[02:35:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8631ms or 172 ticks behind
+[02:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[02:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8999ms or 179 ticks behind
+[02:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9207ms or 184 ticks behind
+[02:47:39] [Server thread/INFO]: Dekuran_VN lost connection: Disconnected
+[02:47:41] [Server thread/INFO]: Dekuran_VN left the game
+[03:52:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[03:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9948ms or 198 ticks behind
+[03:52:10] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[03:52:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:52:10] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:52:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:52:10] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:52:10] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[03:52:10] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.park(Native Method)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1398)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[03:52:10] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[03:52:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:52:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:52:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:41:18] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[04:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11133ms or 222 ticks behind
+[04:41:18] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[04:41:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:41:18] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:41:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:41:18] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:41:18] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[04:41:18] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.park(Native Method)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1398)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[04:41:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[04:41:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:41:18] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:41:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:48:38] [User Authenticator #20/INFO]: UUID of player Hrmanhh is b91211a3-f727-3bc0-9623-907b7e16175f
+[04:48:40] [Server thread/INFO]: Hrmanhh joined the game
+[04:48:40] [Server thread/INFO]: Hrmanhh[/14.231.134.241:52466] logged in with entity id 163908 at ([world]22.293944260412225, 64.0, 163.78559612149655)
+[04:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11135ms or 222 ticks behind
+[04:52:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[04:52:36] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[04:52:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:52:36] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:52:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:52:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:52:36] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:52:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.allocateInstance(Native Method)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.invoke.DirectMethodHandle.allocateInstance(DirectMethodHandle.java:501)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.invoke.DirectMethodHandle$Holder.newInvokeSpecial(DirectMethodHandle$Holder)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.invoke.Invokers$Holder.linkToTargetMethod(Invokers$Holder)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.AdventureCodecs.styleBooleanConsumer(AdventureCodecs.java:252)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.AdventureCodecs.lambda$static$23(AdventureCodecs.java:240)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.AdventureCodecs$$Lambda/0x00007dbae55756c0.accept(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.kyori.adventure.builder.AbstractBuilder.configureAndBuild(AbstractBuilder.java:52)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.kyori.adventure.text.format.Style.style(Style.java:101)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.AdventureCodecs.lambda$static$24(AdventureCodecs.java:236)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.AdventureCodecs$$Lambda/0x00007dbae55675d0.apply(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Function11.lambda$curry5$8(Function11.java:26)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Function11$$Lambda/0x00007dbae4b3cc60.apply(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Function6.lambda$curry3$4(Function6.java:18)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Function6$$Lambda/0x00007dbae4b84238.apply(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.DataResult$Instance.ap3(DataResult.java:456)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:321)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:325)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder$$Lambda/0x00007dbae4ae0528.apply(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.DataResult$Success.flatMap(DataResult.java:201)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:158)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.decode(EitherCodec.java:18)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Decoder$2.decode(Decoder.java:63)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$2.decode(Codec.java:75)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$RecursiveCodec.decode(Codec.java:212)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:29)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:13)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.PaperAdventure.asAdventure(PaperAdventure.java:192)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.entity.BaseContainerBlockEntity.canUnlock(BaseContainerBlockEntity.java:82)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.entity.BaseContainerBlockEntity.canOpen(BaseContainerBlockEntity.java:71)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.canOpen(RandomizableContainerBlockEntity.java:80)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.ChestBlock$2$1.createMenu(ChestBlock.java:92)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.ChestBlock$DoubleInventory.createMenu(ChestBlock.java:141)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1735)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.ChestBlock.useWithoutItem(ChestBlock.java:276)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.useWithoutItem(BlockBehaviour.java:907)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:517)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1931)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils$$Lambda/0x00007dbae54d8e28.run(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1383)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[04:52:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[04:52:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:52:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:52:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[05:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7322ms or 146 ticks behind
+[05:02:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6882ms or 137 ticks behind
+[05:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7349ms or 146 ticks behind
+[05:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7228ms or 144 ticks behind
+[05:09:02] [Server thread/WARN]: Hrmanhh moved too quickly! 7.429748259469562,3.975575911786315,5.5304238439279345
+[05:09:05] [Server thread/INFO]: Villager Villager['Villager'/163746, uuid='a61e5524-6871-45e3-b234-531543128bca', l='ServerLevel[world]', x=14.54, y=51.00, z=166.30, cpos=[0, 10], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[05:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7406ms or 148 ticks behind
+[05:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8032ms or 160 ticks behind
+[05:15:55] [Server thread/INFO]: Villager Villager['Cleric'/148284, uuid='b2824aa0-9665-4a62-8200-372d379b8c0c', l='ServerLevel[world]', x=26.44, y=54.00, z=154.70, cpos=[1, 9], tl=239014, v=true] died, message: 'Cleric was slain by Discount'
+[05:18:25] [Server thread/INFO]: Villager Villager['Librarian'/150145, uuid='f648245c-3290-41c8-9fc6-f80d019f92bf', l='ServerLevel[world]', x=26.70, y=54.00, z=149.30, cpos=[1, 9], tl=226965, v=true] died, message: 'Librarian was slain by Discount'
+[05:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
+[05:23:01] [Server thread/INFO]: Hrmanhh has reached the goal [Zombie Doctor]
+[05:23:27] [Server thread/INFO]: Villager Villager['Librarian'/169095, uuid='4cc1dd04-db8c-4c6a-a6d6-6e59636c9db9', l='ServerLevel[world]', x=18.47, y=55.19, z=151.83, cpos=[1, 9], tl=536, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[05:23:36] [Server thread/INFO]: Villager Villager['Cleric'/169148, uuid='adcf3840-5b38-41b4-9cec-85297f481523', l='ServerLevel[world]', x=18.47, y=55.19, z=151.83, cpos=[1, 9], tl=130, v=true] died, message: 'Cleric was slain by Zombie Villager'
+[05:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8021ms or 160 ticks behind
+[05:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7812ms or 156 ticks behind
+[05:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6654ms or 133 ticks behind
+[05:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8845ms or 176 ticks behind
+[05:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6618ms or 132 ticks behind
+[05:36:36] [Server thread/INFO]: Hrmanhh lost connection: Disconnected
+[05:36:37] [Server thread/INFO]: Hrmanhh left the game
+[05:36:55] [User Authenticator #21/INFO]: UUID of player Hrmanhh is b91211a3-f727-3bc0-9623-907b7e16175f
+[05:36:58] [Server thread/INFO]: Hrmanhh joined the game
+[05:36:58] [Server thread/INFO]: Hrmanhh[/14.231.134.241:53378] logged in with entity id 170985 at ([world]22.439653916204424, 55.0, 152.54823989651288)
+[05:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7560ms or 151 ticks behind
+[05:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6320ms or 126 ticks behind
+[05:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8928ms or 178 ticks behind
+[05:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7240ms or 144 ticks behind
+[05:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7564ms or 151 ticks behind
+[05:57:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8503ms or 170 ticks behind
+[06:00:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[06:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10434ms or 208 ticks behind
+[06:00:35] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[06:00:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:00:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[06:00:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:00:35] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[06:00:35] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[06:00:35] [Paper Watchdog Thread/ERROR]: 	Stack:
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.park(Native Method)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1398)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[06:00:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[06:00:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:00:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[06:00:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:04:16] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[06:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9922ms or 198 ticks behind
+[06:04:16] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[06:04:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:04:16] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[06:04:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:04:16] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[06:04:16] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[06:04:16] [Paper Watchdog Thread/ERROR]: 	Stack:
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.checkInsideBlocks(Entity.java:1626)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.applyEffectsFromBlocks(Entity.java:1273)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.applyEffectsFromBlocks(Entity.java:1259)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3469)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:616)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:256)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3148)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:398)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:228)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1270)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5466f70.accept(Unknown Source)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1499)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:817)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x00007dbae5460218.accept(Unknown Source)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:799)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1724)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1529)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[06:04:16] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[06:04:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:04:16] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[06:04:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7862ms or 157 ticks behind
+[06:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8327ms or 166 ticks behind
+[06:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8431ms or 168 ticks behind
+[06:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7399ms or 147 ticks behind
+[06:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7587ms or 151 ticks behind
+[06:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8661ms or 173 ticks behind
+[06:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8901ms or 178 ticks behind
+[06:32:00] [Server thread/INFO]: There are 1 of a max of 5 players online: Hrmanhh
+[06:32:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+chat halo<--[HERE]
+[06:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8257ms or 165 ticks behind
+[06:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8546ms or 170 ticks behind
+[06:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8647ms or 172 ticks behind
+[06:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7982ms or 159 ticks behind
+[06:42:16] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-165-fd69140 (MC: 1.21.4) ---
+[06:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19252ms or 385 ticks behind
+[06:42:16] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[06:42:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:42:16] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[06:42:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:42:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[06:42:17] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[06:42:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/jdk.internal.misc.Unsafe.park(Native Method)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1398)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:140)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007dbae4d7a318.run(Unknown Source)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.runWith(Thread.java:1596)
+[06:42:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.6/java.lang.Thread.run(Thread.java:1583)
+[06:42:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:42:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[06:42:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[06:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8406ms or 168 ticks behind
+[06:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8597ms or 171 ticks behind
+[06:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8369ms or 167 ticks behind
+[06:51:57] [User Authenticator #22/INFO]: UUID of player Dekuran_VN is 1a522bea-fcf3-3246-8a37-654f29d2c8fd
+[06:52:03] [Server thread/INFO]: Dekuran_VN joined the game
+[06:52:03] [Server thread/INFO]: Dekuran_VN[/183.80.60.26:26509] logged in with entity id 177535 at ([world]-6.820792426710041, 205.0, 211.30000001192093)
+[06:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3483ms or 69 ticks behind
+[06:52:08] [Server thread/WARN]: Dekuran_VN moved too quickly! 0.0,-128.0,0.0
+[06:52:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Dekuran_VN> mua r
+[06:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
+[06:55:08] [Server thread/INFO]: Dekuran_VN issued server command: /clear
+[06:55:09] [Server thread/INFO]: [Dekuran_VN: Removed 496 item(s) from player Dekuran_VN]
+[06:55:25] [Server thread/INFO]: Dekuran_VN issued server command: /clear
+[06:55:25] [Server thread/INFO]: [Dekuran_VN: Removed 46 item(s) from player Dekuran_VN]
+[06:55:26] [Server thread/INFO]: Dekuran_VN issued server command: /clear
+[06:55:26] [Server thread/INFO]: [Dekuran_VN: Removed 38 item(s) from player Dekuran_VN]
+[06:55:27] [Server thread/INFO]: Dekuran_VN issued server command: /clear
+[06:55:27] [Server thread/INFO]: [Dekuran_VN: Removed 19 item(s) from player Dekuran_VN]
+[06:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8379ms or 167 ticks behind
+[06:56:20] [Server thread/INFO]: Dekuran_VN issued server command: /stop
+[06:56:21] [Server thread/INFO]: [Dekuran_VN: Stopping the server]
+[06:56:21] [Server thread/INFO]: Stopping server
+[06:56:22] [Server thread/INFO]: Saving players
+[06:56:23] [Server thread/INFO]: Hrmanhh lost connection: Server closed
+[06:56:24] [Server thread/INFO]: Hrmanhh left the game
+[06:56:24] [Server thread/INFO]: Dekuran_VN lost connection: Server closed
+[06:56:24] [Server thread/INFO]: Dekuran_VN left the game
+[06:56:24] [Server thread/INFO]: Saving worlds
+[06:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:56:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:56:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:56:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 183 entity chunks, 2 poi chunks in world 'world' in 1.19s
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[06:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:56:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Saved 168 block chunks, 143 entity chunks, 0 poi chunks in world 'world_nether' in 2.96s
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[06:56:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.08s
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[06:56:29] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[06:56:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:56:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:56:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:56:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:56:29] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[06:56:29] [Server thread/INFO]: All I/O tasks to complete
+[06:56:29] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[06:56:29] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
