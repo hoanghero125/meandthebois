@@ -1,0 +1,8 @@
+# Ignore SSH-related files
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
+id_rsa
+id_rsa.pub
+config
+known_hosts
+.ssh/
