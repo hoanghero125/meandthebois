@@ -1,63 +1,59 @@
-[00:24:04] [User Authenticator #53/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
-[00:24:05] [Server thread/INFO]: ChimRatTo joined the game
-[00:24:05] [Server thread/INFO]: ChimRatTo[/118.68.175.150:65124] logged in with entity id 685872 at ([world]-44.40934103474917, 44.5625, 189.2591913881204)
-[00:24:38] [User Authenticator #53/INFO]: UUID of player Hrmanhh is b91211a3-f727-3bc0-9623-907b7e16175f
-[00:24:38] [Server thread/INFO]: Hrmanhh joined the game
-[00:24:38] [Server thread/INFO]: Hrmanhh[/113.190.208.85:52052] logged in with entity id 685946 at ([world]20.23243482917514, 64.0, 165.4741682576869)
-[00:25:10] [Async Chat Thread - #67/INFO]: [Not Secure] <ChimRatTo> bu dam
-[00:26:34] [Async Chat Thread - #70/INFO]: [Not Secure] <ChimRatTo> omg
-[00:26:40] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> elytra moi tim` dc 1 cai
-[00:26:46] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> khi nao` vao` tim` tiep
-[00:26:55] [Async Chat Thread - #70/INFO]: [Not Secure] <ChimRatTo> nah chx can elytra lam
-[00:27:00] [Async Chat Thread - #69/INFO]: [Not Secure] <Hrmanhh> sure ?
-[00:27:09] [Async Chat Thread - #70/INFO]: [Not Secure] <ChimRatTo> i would win
-[00:27:28] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> imma sleep soon today
-[00:27:32] [Async Chat Thread - #70/INFO]: [Not Secure] <ChimRatTo> bye
-[00:27:41] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> nonstop minecraft from 12am till now
-[00:27:55] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> 12am not 12pm
-[00:28:07] [Async Chat Thread - #70/INFO]: [Not Secure] <Hrmanhh> straight 24 hours
-[00:28:15] [Async Chat Thread - #69/INFO]: [Not Secure] <ChimRatTo> shiet
-[00:29:40] [Async Chat Thread - #71/INFO]: [Not Secure] <Hrmanhh> gb
-[00:29:48] [Server thread/INFO]: Hrmanhh lost connection: Disconnected
-[00:29:48] [Server thread/INFO]: Hrmanhh left the game
-[00:30:21] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
-[00:30:21] [Server thread/INFO]: ChimRatTo left the game
-[01:02:59] [User Authenticator #54/INFO]: UUID of player Hrmanhh is b91211a3-f727-3bc0-9623-907b7e16175f
-[01:03:00] [Server thread/INFO]: Hrmanhh joined the game
-[01:03:00] [Server thread/INFO]: Hrmanhh[/113.190.208.85:52580] logged in with entity id 686861 at ([world]28.860590303079572, 64.0, 159.3138286455367)
-[01:12:31] [Server thread/INFO]: Hrmanhh lost connection: Disconnected
-[01:12:31] [Server thread/INFO]: Hrmanhh left the game
-[05:18:34] [Server thread/INFO]: Stopping the server
-[05:18:34] [Server thread/INFO]: Stopping server
-[05:18:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
-[05:18:34] [Server thread/INFO]: Saving players
-[05:18:34] [Server thread/INFO]: Saving worlds
-[05:18:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 142 entity chunks, 0 poi chunks in world 'world' in 0.14s
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[05:18:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:18:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Saved 43 block chunks, 139 entity chunks, 0 poi chunks in world 'world_nether' in 0.14s
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[05:18:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 42 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[05:18:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[05:18:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:18:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:18:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:18:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05:18:35] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[05:18:35] [Server thread/INFO]: All I/O tasks to complete
-[05:18:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[05:18:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[08:29:48] [User Authenticator #31/INFO]: UUID of player Hrmanhh is b91211a3-f727-3bc0-9623-907b7e16175f
+[08:29:49] [Server thread/INFO]: Hrmanhh joined the game
+[08:29:49] [Server thread/INFO]: Hrmanhh[/113.181.92.74:55334] logged in with entity id 1170843 at ([world]2.739166513233391, 48.0, 161.2858596323968)
+[08:54:46] [User Authenticator #32/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
+[08:54:47] [Server thread/INFO]: ServerSeekerV2 (/45.135.194.65:57592) lost connection: Disconnected
+[09:36:03] [Server thread/INFO]: /103.95.199.7:48758 lost connection: Disconnected
+[09:46:13] [Server thread/INFO]: Villager Villager['Villager'/558297, uuid='8d409122-652a-4081-bb16-7e8697025bf8', l='ServerLevel[world]', x=15.30, y=55.04, z=161.85, cpos=[0, 10], tl=234852, v=true] died, message: 'Villager was squished too much'
+[09:46:49] [Server thread/INFO]: Villager Villager['Villager'/1160093, uuid='01c5426c-5051-4615-ae05-10afeaeb480e', l='ServerLevel[world]', x=15.70, y=55.05, z=161.88, cpos=[0, 10], tl=179113, v=true] died, message: 'Villager was squished too much'
+[10:15:46] [Server thread/INFO]: Hrmanhh has made the advancement [Bee Our Guest]
+[10:40:15] [Server thread/INFO]: Hrmanhh has made the advancement [Crafting a New Look]
+[10:41:03] [Server thread/INFO]: /103.95.199.7:40024 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[10:43:24] [Server thread/INFO]: /103.95.199.7:54244 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[10:46:37] [Server thread/INFO]: Hrmanhh lost connection: Disconnected
+[10:46:37] [Server thread/INFO]: Hrmanhh left the game
+[11:22:55] [Server thread/INFO]: /103.95.199.7:49926 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[11:46:13] [Server thread/INFO]: /103.95.199.7:59600 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[11:48:34] [Server thread/INFO]: /103.95.199.7:42018 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:00:07] [Server thread/INFO]: /103.95.199.7:56960 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:00:22] [Server thread/INFO]: /103.95.199.7:36686 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:19:05] [Server thread/INFO]: /103.95.199.7:40314 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:23:17] [Server thread/INFO]: /103.95.199.7:49908 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:47:10] [Server thread/INFO]: /103.95.199.7:56694 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:47:16] [Server thread/INFO]: /103.95.199.7:56722 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:48:28] [Server thread/INFO]: /103.95.199.7:58510 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:49:24] [Server thread/INFO]: /103.95.199.7:36546 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[13:00:49] [Server thread/INFO]: Stopping the server
+[13:00:49] [Server thread/INFO]: Stopping server
+[13:00:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.3
+[13:00:49] [Server thread/INFO]: Saving players
+[13:00:49] [Server thread/INFO]: Saving worlds
+[13:00:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 140 entity chunks, 0 poi chunks in world 'world' in 0.11s
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[13:00:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 113 entity chunks, 0 poi chunks in world 'world_nether' in 0.16s
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[13:00:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 36 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[13:00:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[13:00:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:00:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:00:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:00:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:00:49] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[13:00:49] [Server thread/INFO]: All I/O tasks to complete
+[13:00:49] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[13:00:49] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
