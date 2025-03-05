@@ -1,132 +1,73 @@
-[14:02:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-124.04.1; Ubuntu null) on Linux 6.8.0-54-generic (amd64)
-[14:02:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-165-main@fd69140 (2025-02-17T19:13:29Z) for Minecraft 1.21.4
-[14:02:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:02:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[14:02:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.5.3)
-[14:02:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:02:52] [ServerMain/INFO]: Loaded 1370 recipes
-[14:02:52] [ServerMain/INFO]: Loaded 1481 advancements
-[14:02:52] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[14:02:53] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 911.1ms
-[14:02:53] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:02:53] [Server thread/WARN]: ****************************
-[14:02:53] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[14:02:53] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[14:02:53] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[14:02:53] [Server thread/WARN]: ****************************
-[14:02:53] [Server thread/INFO]: Loading properties
-[14:02:53] [Server thread/INFO]: This server is running Paper version 1.21.4-165-main@fd69140 (2025-02-17T19:13:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[14:02:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:02:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:02:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:02:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[14:02:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[14:02:56] [Server thread/INFO]: Default game type: SURVIVAL
-[14:02:56] [Server thread/INFO]: Generating keypair
-[14:02:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:02:56] [Server thread/INFO]: Using epoll channel type
-[14:02:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:02:56] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[14:02:56] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.3
-[14:02:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:02:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.3
-[14:02:58] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[14:02:59] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[14:03:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:03:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:03:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:03:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:03:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:03:00] [Server thread/INFO]: Preparing level "world"
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.3
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 86e796c
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:03:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:03:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:03:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:02] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:03] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:03] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:03] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:04] [Server thread/INFO]: Time elapsed: 3093 ms
-[14:03:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:05] [Server thread/INFO]: Preparing spawn area: 12%
-[14:03:05] [Server thread/INFO]: Time elapsed: 638 ms
-[14:03:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:03:05] [Server thread/INFO]: Preparing spawn area: 0%
-[14:03:05] [Server thread/INFO]: Time elapsed: 402 ms
-[14:03:06] [Server thread/INFO]: [spark] Starting background profiler...
-[14:03:06] [Server thread/INFO]: Done preparing level "world" (6.416s)
-[14:03:06] [Server thread/INFO]: Running delayed init tasks
-[14:03:06] [Server thread/INFO]: Done (33.675s)! For help, type "help"
-[14:13:38] [User Authenticator #0/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
-[14:13:40] [Server thread/INFO]: ChimRatTo joined the game
-[14:13:40] [Server thread/INFO]: ChimRatTo[/118.68.122.237:29686] logged in with entity id 200 at ([world]-53.78201691653773, 44.0, 179.33928386291933)
-[14:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
-[14:24:50] [User Authenticator #1/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[14:24:51] [Server thread/INFO]: hrmanhh joined the game
-[14:24:51] [Server thread/INFO]: hrmanhh[/113.181.92.74:57693] logged in with entity id 2083 at ([world]-30.5, 64.0, 113.5)
-[14:25:14] [Async Chat Thread - #1/INFO]: [Not Secure] <ChimRatTo> xicalo
-[14:25:22] [Server thread/INFO]: hrmanhh was shot by Skeleton
-[14:25:26] [Async Chat Thread - #1/INFO]: [Not Secure] <hrmanhh> :DF
-[14:25:28] [Async Chat Thread - #1/INFO]: [Not Secure] <hrmanhh> :D
-[14:25:39] [Async Chat Thread - #1/INFO]: [Not Secure] <ChimRatTo> shi
-[14:27:23] [Async Chat Thread - #3/INFO]: [Not Secure] <ChimRatTo> danh wither k
-[14:27:25] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> :V
-[14:27:38] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> co dau` wither dau
-[14:27:51] [Server thread/INFO]: hrmanhh has made the advancement [A Throwaway Joke]
-[14:27:53] [Async Chat Thread - #3/INFO]: [Not Secure] <ChimRatTo> h vao farm
-[14:28:00] [Server thread/INFO]: ChimRatTo has made the advancement [A Throwaway Joke]
-[14:28:21] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[14:28:21] [Server thread/INFO]: hrmanhh left the game
-[14:31:46] [Server thread/INFO]: [Not Secure] [Server] memaybeo
-[14:32:11] [Server thread/INFO]: [Not Secure] [Server] stop server in 10s to reconfig id for da dumbass who changed his name
-[14:32:23] [Server thread/INFO]: Stopping the server
-[14:32:23] [Server thread/INFO]: Stopping server
-[14:32:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.3
-[14:32:23] [Server thread/INFO]: Saving players
-[14:32:23] [Server thread/INFO]: ChimRatTo lost connection: Server closed
-[14:32:23] [Server thread/INFO]: ChimRatTo left the game
-[14:32:24] [Server thread/INFO]: Saving worlds
-[14:32:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 195 entity chunks, 2 poi chunks in world 'world' in 0.30s
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[14:32:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 13 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[14:32:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[14:32:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:32:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:32:24] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[14:32:24] [Server thread/INFO]: All I/O tasks to complete
-[14:32:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[14:32:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:25:20] [Server thread/INFO]: /103.95.199.7:56052 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[03:00:30] [User Authenticator #43/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[03:00:31] [Server thread/INFO]: hrmanhh joined the game
+[03:00:31] [Server thread/INFO]: hrmanhh[/113.190.208.85:50162] logged in with entity id 271877 at ([world]29.5, 64.0, 159.5)
+[03:12:33] [Server thread/INFO]: hrmanhh issued server command: /tps
+[03:12:51] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[03:12:51] [Server thread/INFO]: hrmanhh left the game
+[06:37:53] [User Authenticator #44/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[06:37:54] [Server thread/INFO]: hrmanhh joined the game
+[06:37:54] [Server thread/INFO]: hrmanhh[/113.190.208.85:55599] logged in with entity id 276505 at ([world]4.928437929674992, 48.0625, 152.8317903104027)
+[06:38:58] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[06:38:58] [Server thread/INFO]: hrmanhh left the game
+[06:39:01] [User Authenticator #45/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[06:39:01] [Server thread/INFO]: hrmanhh joined the game
+[06:39:01] [Server thread/INFO]: hrmanhh[/113.190.208.85:55802] logged in with entity id 276673 at ([world]20.14145418778888, 55.0, 152.73688228751845)
+[06:40:08] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[06:40:08] [Server thread/INFO]: hrmanhh left the game
+[06:40:13] [Server thread/INFO]: hrmanhh (/113.190.208.85:55853) lost connection: Disconnected
+[06:40:13] [User Authenticator #46/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[06:40:13] [User Authenticator #46/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[06:40:14] [Server thread/INFO]: hrmanhh joined the game
+[06:40:14] [Server thread/INFO]: hrmanhh[/113.190.208.85:55874] logged in with entity id 276832 at ([world]13.216645948714381, 52.0, 157.99658771504696)
+[06:40:17] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[06:40:17] [Server thread/INFO]: hrmanhh left the game
+[06:46:04] [User Authenticator #47/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[06:46:04] [Server thread/INFO]: hrmanhh joined the game
+[06:46:04] [Server thread/INFO]: hrmanhh[/113.190.208.85:56225] logged in with entity id 276857 at ([world]20.977231126690747, 55.0, 154.22892422598608)
+[06:49:52] [Server thread/INFO]: Villager Villager['Weaponsmith'/104878, uuid='2739a91f-fec1-4462-bcab-1a0375a48d27', l='ServerLevel[world]', x=25.70, y=54.00, z=134.51, cpos=[1, 8], tl=256886, v=true] died, message: 'Weaponsmith was slain by Discount Version 2'
+[06:53:27] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[06:53:27] [Server thread/INFO]: hrmanhh left the game
+[07:03:11] [User Authenticator #48/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[07:03:12] [Server thread/INFO]: hrmanhh joined the game
+[07:03:12] [Server thread/INFO]: hrmanhh[/113.190.208.85:57085] logged in with entity id 278252 at ([world]19.04325579337941, 55.0, 130.98670065071343)
+[07:16:17] [Server thread/INFO]: Villager Villager['Fletcher'/96, uuid='e559cb36-1cce-4166-bd8d-09bfbbf72e37', l='ServerLevel[world]', x=25.70, y=55.00, z=130.47, cpos=[1, 8], tl=851324, v=true] died, message: 'Fletcher was slain by hrmanhh'
+[07:19:45] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[07:19:45] [Server thread/INFO]: hrmanhh left the game
+[09:40:55] [User Authenticator #49/INFO]: UUID of player JustAScanner is f72fe25a-5f1e-3b4d-9a42-b62e637a9335
+[09:40:55] [Server thread/INFO]: JustAScanner (/156.253.227.141:39600) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:58:15] [Server thread/INFO]: There are 0 of a max of 10 players online: 
+[13:58:18] [Server thread/INFO]: Stopping the server
+[13:58:18] [Server thread/INFO]: Stopping server
+[13:58:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.3
+[13:58:18] [Server thread/INFO]: Saving players
+[13:58:18] [Server thread/INFO]: Saving worlds
+[13:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 144 entity chunks, 0 poi chunks in world 'world' in 0.13s
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[13:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saved 44 block chunks, 137 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[13:58:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:58:19] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[13:58:19] [Server thread/INFO]: All I/O tasks to complete
+[13:58:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[13:58:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
