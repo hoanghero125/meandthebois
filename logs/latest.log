@@ -1,73 +1,504 @@
-[00:25:20] [Server thread/INFO]: /103.95.199.7:56052 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
-[03:00:30] [User Authenticator #43/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[03:00:31] [Server thread/INFO]: hrmanhh joined the game
-[03:00:31] [Server thread/INFO]: hrmanhh[/113.190.208.85:50162] logged in with entity id 271877 at ([world]29.5, 64.0, 159.5)
-[03:12:33] [Server thread/INFO]: hrmanhh issued server command: /tps
-[03:12:51] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[03:12:51] [Server thread/INFO]: hrmanhh left the game
-[06:37:53] [User Authenticator #44/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[06:37:54] [Server thread/INFO]: hrmanhh joined the game
-[06:37:54] [Server thread/INFO]: hrmanhh[/113.190.208.85:55599] logged in with entity id 276505 at ([world]4.928437929674992, 48.0625, 152.8317903104027)
-[06:38:58] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[06:38:58] [Server thread/INFO]: hrmanhh left the game
-[06:39:01] [User Authenticator #45/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[06:39:01] [Server thread/INFO]: hrmanhh joined the game
-[06:39:01] [Server thread/INFO]: hrmanhh[/113.190.208.85:55802] logged in with entity id 276673 at ([world]20.14145418778888, 55.0, 152.73688228751845)
-[06:40:08] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[06:40:08] [Server thread/INFO]: hrmanhh left the game
-[06:40:13] [Server thread/INFO]: hrmanhh (/113.190.208.85:55853) lost connection: Disconnected
-[06:40:13] [User Authenticator #46/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[06:40:13] [User Authenticator #46/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[06:40:14] [Server thread/INFO]: hrmanhh joined the game
-[06:40:14] [Server thread/INFO]: hrmanhh[/113.190.208.85:55874] logged in with entity id 276832 at ([world]13.216645948714381, 52.0, 157.99658771504696)
-[06:40:17] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[06:40:17] [Server thread/INFO]: hrmanhh left the game
-[06:46:04] [User Authenticator #47/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[06:46:04] [Server thread/INFO]: hrmanhh joined the game
-[06:46:04] [Server thread/INFO]: hrmanhh[/113.190.208.85:56225] logged in with entity id 276857 at ([world]20.977231126690747, 55.0, 154.22892422598608)
-[06:49:52] [Server thread/INFO]: Villager Villager['Weaponsmith'/104878, uuid='2739a91f-fec1-4462-bcab-1a0375a48d27', l='ServerLevel[world]', x=25.70, y=54.00, z=134.51, cpos=[1, 8], tl=256886, v=true] died, message: 'Weaponsmith was slain by Discount Version 2'
-[06:53:27] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[06:53:27] [Server thread/INFO]: hrmanhh left the game
-[07:03:11] [User Authenticator #48/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[07:03:12] [Server thread/INFO]: hrmanhh joined the game
-[07:03:12] [Server thread/INFO]: hrmanhh[/113.190.208.85:57085] logged in with entity id 278252 at ([world]19.04325579337941, 55.0, 130.98670065071343)
-[07:16:17] [Server thread/INFO]: Villager Villager['Fletcher'/96, uuid='e559cb36-1cce-4166-bd8d-09bfbbf72e37', l='ServerLevel[world]', x=25.70, y=55.00, z=130.47, cpos=[1, 8], tl=851324, v=true] died, message: 'Fletcher was slain by hrmanhh'
-[07:19:45] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[07:19:45] [Server thread/INFO]: hrmanhh left the game
-[09:40:55] [User Authenticator #49/INFO]: UUID of player JustAScanner is f72fe25a-5f1e-3b4d-9a42-b62e637a9335
-[09:40:55] [Server thread/INFO]: JustAScanner (/156.253.227.141:39600) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[13:58:15] [Server thread/INFO]: There are 0 of a max of 10 players online: 
-[13:58:18] [Server thread/INFO]: Stopping the server
-[13:58:18] [Server thread/INFO]: Stopping server
-[13:58:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.3
-[13:58:18] [Server thread/INFO]: Saving players
-[13:58:18] [Server thread/INFO]: Saving worlds
-[13:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 144 entity chunks, 0 poi chunks in world 'world' in 0.13s
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[13:58:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Saved 44 block chunks, 137 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[13:58:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[13:58:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[13:58:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:58:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:58:19] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[13:58:19] [Server thread/INFO]: All I/O tasks to complete
-[13:58:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[13:58:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:21:38] [User Authenticator #136/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[00:21:38] [Server thread/INFO]: intersect (/156.253.227.129:44804) lost connection: Disconnected
+[00:42:22] [User Authenticator #137/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[00:42:22] [Server thread/INFO]: intersect (/156.253.227.129:44520) lost connection: Disconnected
+[00:42:43] [User Authenticator #137/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[00:42:43] [Server thread/INFO]: intersect (/156.253.227.129:38346) lost connection: Disconnected
+[00:56:39] [User Authenticator #138/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[00:56:39] [Server thread/INFO]: intersect (/156.253.227.129:47000) lost connection: Disconnected
+[01:04:47] [User Authenticator #139/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:04:47] [Server thread/INFO]: intersect (/156.253.227.129:38114) lost connection: Disconnected
+[01:06:11] [User Authenticator #140/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:06:12] [Server thread/INFO]: intersect (/156.253.227.129:59820) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[01:06:50] [User Authenticator #140/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:06:50] [Server thread/INFO]: intersect (/156.253.227.129:49136) lost connection: Disconnected
+[01:15:52] [User Authenticator #141/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:15:53] [Server thread/INFO]: intersect (/156.253.227.129:43828) lost connection: Disconnected
+[01:16:24] [User Authenticator #141/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:16:24] [Server thread/INFO]: intersect (/156.253.227.129:46358) lost connection: Disconnected
+[01:23:32] [User Authenticator #142/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:23:32] [Server thread/INFO]: intersect (/156.253.227.129:40916) lost connection: Disconnected
+[01:28:00] [User Authenticator #143/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:28:00] [Server thread/INFO]: intersect (/156.253.227.129:43538) lost connection: Disconnected
+[01:46:53] [User Authenticator #144/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[01:46:53] [Server thread/INFO]: intersect (/156.253.227.129:42792) lost connection: Disconnected
+[02:07:49] [User Authenticator #145/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[02:07:50] [Server thread/INFO]: intersect (/156.253.227.129:58216) lost connection: Disconnected
+[02:13:34] [User Authenticator #146/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[02:13:34] [Server thread/INFO]: intersect (/156.253.227.129:40398) lost connection: Disconnected
+[02:17:37] [User Authenticator #147/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[02:17:38] [Server thread/INFO]: intersect (/156.253.227.129:56740) lost connection: Disconnected
+[02:27:05] [User Authenticator #148/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[02:27:06] [Server thread/INFO]: intersect (/156.253.227.129:45640) lost connection: Disconnected
+[02:57:23] [User Authenticator #149/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[02:57:23] [Server thread/INFO]: intersect (/156.253.227.129:53804) lost connection: Disconnected
+[03:15:32] [User Authenticator #150/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:15:33] [Server thread/INFO]: intersect (/156.253.227.129:48324) lost connection: Disconnected
+[03:23:06] [User Authenticator #151/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:23:07] [Server thread/INFO]: intersect (/156.253.227.129:60186) lost connection: Disconnected
+[03:27:53] [User Authenticator #152/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:27:54] [Server thread/INFO]: intersect (/156.253.227.129:44288) lost connection: Disconnected
+[03:38:10] [User Authenticator #153/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:38:11] [Server thread/INFO]: intersect (/156.253.227.129:53838) lost connection: Disconnected
+[03:42:55] [User Authenticator #154/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:42:56] [Server thread/INFO]: intersect (/156.253.227.129:58216) lost connection: Disconnected
+[03:53:28] [User Authenticator #155/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:53:28] [Server thread/INFO]: intersect (/156.253.227.129:43212) lost connection: Disconnected
+[03:57:31] [User Authenticator #156/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[03:57:32] [Server thread/INFO]: intersect (/156.253.227.129:52926) lost connection: Disconnected
+[04:06:10] [User Authenticator #157/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:06:11] [Server thread/INFO]: intersect (/156.253.227.129:34352) lost connection: Disconnected
+[04:08:56] [User Authenticator #158/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:08:56] [Server thread/INFO]: intersect (/156.253.227.129:47796) lost connection: Disconnected
+[04:14:20] [User Authenticator #159/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:14:21] [Server thread/INFO]: intersect (/156.253.227.129:54824) lost connection: Disconnected
+[04:22:15] [User Authenticator #160/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:22:15] [Server thread/INFO]: intersect (/156.253.227.129:58898) lost connection: Disconnected
+[04:43:36] [User Authenticator #161/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:43:37] [Server thread/INFO]: intersect (/156.253.227.129:49712) lost connection: Disconnected
+[04:43:41] [User Authenticator #161/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:43:42] [Server thread/INFO]: intersect (/156.253.227.129:49718) lost connection: Disconnected
+[04:47:12] [User Authenticator #162/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:47:12] [Server thread/INFO]: intersect (/156.253.227.129:35704) lost connection: Disconnected
+[04:56:54] [User Authenticator #163/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[04:56:55] [Server thread/INFO]: intersect (/156.253.227.129:56870) lost connection: Disconnected
+[05:09:44] [User Authenticator #164/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:09:44] [Server thread/INFO]: intersect (/156.253.227.129:41376) lost connection: Disconnected
+[05:12:50] [User Authenticator #165/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:12:51] [Server thread/INFO]: intersect (/156.253.227.129:50612) lost connection: Disconnected
+[05:26:43] [User Authenticator #166/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:26:43] [Server thread/INFO]: intersect (/156.253.227.129:50086) lost connection: Disconnected
+[05:30:32] [User Authenticator #167/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:30:32] [Server thread/INFO]: intersect (/156.253.227.129:34018) lost connection: Disconnected
+[05:34:48] [User Authenticator #168/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:34:49] [Server thread/INFO]: intersect (/156.253.227.129:33402) lost connection: Disconnected
+[05:54:30] [User Authenticator #169/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[05:54:30] [Server thread/INFO]: intersect (/156.253.227.129:40822) lost connection: Disconnected
+[06:11:33] [User Authenticator #170/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[06:11:34] [Server thread/INFO]: intersect (/156.253.227.129:42104) lost connection: Disconnected
+[06:15:01] [User Authenticator #171/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[06:15:01] [Server thread/INFO]: intersect (/156.253.227.129:42534) lost connection: Disconnected
+[06:45:07] [User Authenticator #172/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[06:45:08] [Server thread/INFO]: intersect (/156.253.227.129:33936) lost connection: Disconnected
+[07:13:25] [User Authenticator #173/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:13:26] [Server thread/INFO]: intersect (/156.253.227.129:33010) lost connection: Disconnected
+[07:22:12] [Server thread/INFO]: intersect (/156.253.227.129:58754) lost connection: Disconnected
+[07:22:13] [User Authenticator #174/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:27:13] [User Authenticator #175/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:27:14] [Server thread/INFO]: intersect (/156.253.227.129:33810) lost connection: Disconnected
+[07:50:44] [User Authenticator #176/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:50:45] [Server thread/INFO]: intersect (/156.253.227.129:47924) lost connection: Disconnected
+[07:53:00] [User Authenticator #177/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:53:00] [Server thread/INFO]: intersect (/156.253.227.129:52920) lost connection: Disconnected
+[07:53:42] [User Authenticator #177/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:53:42] [Server thread/INFO]: intersect (/156.253.227.129:43148) lost connection: Disconnected
+[07:59:57] [User Authenticator #178/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[07:59:57] [Server thread/INFO]: intersect (/156.253.227.129:60238) lost connection: Disconnected
+[08:06:29] [User Authenticator #179/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:06:30] [Server thread/INFO]: intersect (/156.253.227.129:36570) lost connection: Disconnected
+[08:13:50] [User Authenticator #180/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:13:51] [Server thread/INFO]: intersect (/156.253.227.129:51974) lost connection: Disconnected
+[08:14:17] [User Authenticator #180/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:14:17] [Server thread/INFO]: intersect (/156.253.227.129:38658) lost connection: Disconnected
+[08:25:47] [User Authenticator #181/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:25:47] [Server thread/INFO]: intersect (/156.253.227.129:39842) lost connection: Disconnected
+[08:27:13] [User Authenticator #182/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:27:13] [Server thread/INFO]: intersect (/156.253.227.129:37692) lost connection: Disconnected
+[08:41:46] [User Authenticator #183/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:41:46] [Server thread/INFO]: intersect (/156.253.227.129:47996) lost connection: Disconnected
+[08:44:36] [User Authenticator #184/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:44:36] [Server thread/INFO]: intersect (/156.253.227.129:33518) lost connection: Disconnected
+[08:58:44] [User Authenticator #185/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[08:58:45] [Server thread/INFO]: intersect (/156.253.227.129:42400) lost connection: Disconnected
+[09:01:28] [User Authenticator #186/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[09:01:28] [Server thread/INFO]: intersect (/156.253.227.129:33474) lost connection: Disconnected
+[09:26:44] [User Authenticator #187/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[09:26:45] [Server thread/INFO]: intersect (/156.253.227.129:35872) lost connection: Disconnected
+[09:48:21] [User Authenticator #188/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[09:48:21] [Server thread/INFO]: intersect (/156.253.227.129:60758) lost connection: Disconnected
+[09:54:54] [User Authenticator #189/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[09:54:54] [Server thread/INFO]: intersect (/156.253.227.129:50132) lost connection: Disconnected
+[09:58:59] [User Authenticator #190/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[09:59:00] [Server thread/INFO]: intersect (/156.253.227.129:49210) lost connection: Disconnected
+[10:02:55] [User Authenticator #191/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[10:02:56] [Server thread/INFO]: intersect (/156.253.227.129:49436) lost connection: Disconnected
+[10:08:24] [User Authenticator #192/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[10:08:24] [Server thread/INFO]: intersect (/156.253.227.129:44238) lost connection: Disconnected
+[10:54:08] [User Authenticator #193/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[10:54:08] [Server thread/INFO]: intersect (/156.253.227.129:41670) lost connection: Disconnected
+[10:58:02] [User Authenticator #194/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[10:58:02] [Server thread/INFO]: intersect (/156.253.227.129:39502) lost connection: Disconnected
+[11:00:16] [User Authenticator #195/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:00:16] [Server thread/INFO]: intersect (/156.253.227.129:48580) lost connection: Disconnected
+[11:02:54] [User Authenticator #196/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:02:54] [Server thread/INFO]: intersect (/156.253.227.129:40734) lost connection: Disconnected
+[11:06:19] [User Authenticator #197/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:06:19] [Server thread/INFO]: intersect (/156.253.227.129:51060) lost connection: Disconnected
+[11:12:36] [User Authenticator #198/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:12:36] [Server thread/INFO]: intersect (/156.253.227.129:33200) lost connection: Disconnected
+[11:19:04] [User Authenticator #199/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:19:04] [Server thread/INFO]: intersect (/156.253.227.129:58660) lost connection: Disconnected
+[11:23:05] [User Authenticator #200/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:23:06] [Server thread/INFO]: intersect (/156.253.227.129:50622) lost connection: Disconnected
+[11:24:24] [User Authenticator #201/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:24:24] [Server thread/INFO]: intersect (/156.253.227.129:39526) lost connection: Disconnected
+[11:26:19] [User Authenticator #202/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:26:19] [Server thread/INFO]: intersect (/156.253.227.129:53946) lost connection: Disconnected
+[11:48:06] [User Authenticator #203/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[11:48:06] [Server thread/INFO]: intersect (/156.253.227.129:44540) lost connection: Disconnected
+[12:07:31] [User Authenticator #204/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[12:07:31] [Server thread/INFO]: intersect (/156.253.227.129:44788) lost connection: Disconnected
+[12:12:01] [User Authenticator #205/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[12:12:01] [Server thread/INFO]: intersect (/156.253.227.129:33266) lost connection: Disconnected
+[12:20:07] [User Authenticator #206/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[12:20:07] [Server thread/INFO]: intersect (/156.253.227.129:46140) lost connection: Disconnected
+[12:34:20] [User Authenticator #207/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[12:34:21] [Server thread/INFO]: intersect (/156.253.227.129:37964) lost connection: Disconnected
+[12:43:51] [User Authenticator #208/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[12:43:52] [Server thread/INFO]: hrmanhh joined the game
+[12:43:52] [Server thread/INFO]: hrmanhh[/123.16.144.204:50835] logged in with entity id 245869 at ([world]29.69999998807907, 64.0, 160.69999998807907)
+[12:44:59] [Server thread/INFO]: hrmanhh issued server command: /tps
+[12:47:55] [Server thread/INFO]: /103.95.199.7:59176 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:48:25] [Server thread/INFO]: /103.95.199.7:36160 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[12:56:29] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[12:56:29] [Server thread/INFO]: hrmanhh left the game
+[13:10:24] [User Authenticator #209/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[13:10:25] [Server thread/INFO]: intersect (/156.253.227.129:34388) lost connection: Disconnected
+[13:13:11] [Server thread/INFO]: /103.95.199.7:45076 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[13:18:37] [User Authenticator #210/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[13:18:37] [Server thread/INFO]: hrmanhh joined the game
+[13:18:37] [Server thread/INFO]: hrmanhh[/42.113.215.39:1761] logged in with entity id 247818 at ([world]-71.30000001192093, 67.0, 128.04626271812504)
+[13:42:53] [User Authenticator #211/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[13:42:53] [Server thread/INFO]: intersect (/156.253.227.129:51708) lost connection: Disconnected
+[14:02:42] [User Authenticator #212/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[14:02:43] [Server thread/INFO]: intersect (/156.253.227.129:37994) lost connection: Disconnected
+[14:20:03] [User Authenticator #213/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[14:20:04] [Server thread/INFO]: ChimRatTo joined the game
+[14:20:04] [Server thread/INFO]: ChimRatTo[/117.4.241.115:61047] logged in with entity id 258060 at ([world]533.3746229965802, 54.0, 1354.7920911454712)
+[14:20:14] [Async Chat Thread - #1/INFO]: [Not Secure] <ChimRatTo> bye
+[14:20:15] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[14:20:15] [Server thread/INFO]: ChimRatTo left the game
+[14:20:16] [Async Chat Thread - #1/INFO]: [Not Secure] <hrmanhh> ?
+[14:22:27] [User Authenticator #214/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[14:22:27] [Server thread/INFO]: intersect (/156.253.227.129:43576) lost connection: Disconnected
+[14:28:18] [Server thread/INFO]: hrmanhh issued server command: /tps
+[14:42:35] [User Authenticator #215/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[14:42:36] [Server thread/INFO]: intersect (/156.253.227.129:54660) lost connection: Disconnected
+[14:42:59] [User Authenticator #215/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[14:42:59] [Server thread/INFO]: intersect (/156.253.227.129:46000) lost connection: Disconnected
+[14:51:12] [User Authenticator #216/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[14:51:13] [Server thread/INFO]: intersect (/156.253.227.129:43458) lost connection: Disconnected
+[14:58:38] [Server thread/INFO]: hrmanhh lost connection: Timed out
+[14:58:38] [Server thread/INFO]: hrmanhh left the game
+[15:00:19] [User Authenticator #217/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[15:00:19] [Server thread/INFO]: hrmanhh joined the game
+[15:00:19] [Server thread/INFO]: hrmanhh[/116.105.152.198:5183] logged in with entity id 265429 at ([world]68.66726571328209, 84.0, 112.74375217077983)
+[15:09:49] [User Authenticator #218/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:09:49] [Server thread/INFO]: intersect (/156.253.227.129:45708) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:17:20] [User Authenticator #219/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:17:20] [Server thread/INFO]: intersect (/156.253.227.129:33346) lost connection: Disconnected
+[15:22:08] [User Authenticator #220/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
+[15:22:17] [Server thread/INFO]: KittyScan (/156.253.227.23:60540) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[15:24:15] [User Authenticator #221/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:24:15] [Server thread/INFO]: intersect (/156.253.227.129:55580) lost connection: Disconnected
+[15:35:02] [User Authenticator #222/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:35:02] [Server thread/INFO]: intersect (/156.253.227.129:52888) lost connection: Disconnected
+[15:41:57] [User Authenticator #223/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[15:41:58] [Server thread/INFO]: ChimRatTo joined the game
+[15:41:58] [Server thread/INFO]: ChimRatTo[/42.113.215.39:10391] logged in with entity id 272567 at ([world]537.257307213539, 55.0, 1353.2265091651198)
+[15:53:06] [User Authenticator #224/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:53:07] [Server thread/INFO]: intersect (/156.253.227.129:55488) lost connection: Disconnected
+[15:55:35] [Server thread/INFO]: hrmanhh has made the advancement [Tactical Fishing]
+[15:56:27] [User Authenticator #225/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[15:56:27] [Server thread/INFO]: intersect (/156.253.227.129:35156) lost connection: Disconnected
+[15:56:32] [Server thread/INFO]: ChimRatTo has made the advancement [Tactical Fishing]
+[16:01:12] [User Authenticator #226/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[16:01:13] [Server thread/INFO]: intersect (/156.253.227.129:52152) lost connection: Disconnected
+[16:02:48] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[16:02:48] [Server thread/INFO]: hrmanhh left the game
+[16:03:22] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[16:03:22] [Server thread/INFO]: ChimRatTo left the game
+[16:05:58] [User Authenticator #227/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[16:05:58] [Server thread/INFO]: intersect (/156.253.227.129:48736) lost connection: Disconnected
+[16:26:39] [User Authenticator #228/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[16:26:39] [Server thread/INFO]: intersect (/156.253.227.129:57814) lost connection: Disconnected
+[16:36:19] [User Authenticator #229/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[16:36:19] [Server thread/INFO]: intersect (/156.253.227.129:33114) lost connection: Disconnected
+[16:41:33] [User Authenticator #230/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[16:41:33] [Server thread/INFO]: hrmanhh joined the game
+[16:41:33] [Server thread/INFO]: hrmanhh[/222.252.97.37:31454] logged in with entity id 280938 at ([world]1.3155529396934489, 236.0, 201.00179332391556)
+[16:44:29] [Server thread/INFO]: [Not Secure] [Server] nigger
+[16:44:32] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> ???
+[16:44:33] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> tf
+[16:44:34] [Async Chat Thread - #4/INFO]: [Not Secure] <hrmanhh> HOW
+[16:44:40] [Server thread/INFO]: [Not Secure] [Server] hoc xong r
+[16:44:42] [Server thread/INFO]: [Not Secure] [Server] gio ra net a
+[16:44:44] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> :v?
+[16:44:46] [Async Chat Thread - #4/INFO]: [Not Secure] <hrmanhh> the ma
+[16:44:52] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> bao tg ruoi nx
+[16:44:55] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> ra di
+[16:44:59] [Server thread/INFO]: [Not Secure] [Server] co cho nghi som
+[16:44:59] [Async Chat Thread - #3/INFO]: [Not Secure] <hrmanhh> t dang o net choi mc
+[16:45:01] [Server thread/INFO]: [Not Secure] [Server] gg
+[16:53:45] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[16:53:46] [Server thread/INFO]: hrmanhh left the game
+[16:59:52] [User Authenticator #231/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[16:59:53] [Server thread/INFO]: ChimRatTo joined the game
+[16:59:53] [Server thread/INFO]: ChimRatTo[/42.119.246.251:61575] logged in with entity id 282490 at ([world]398.8346079112342, 64.0, 1268.4673656117836)
+[17:01:35] [Server thread/INFO]: ChimRatTo has made the advancement [The Cutest Predator]
+[17:01:35] [Server thread/WARN]: ChimRatTo moved too quickly! 9.15512710012979,3.0,-6.102983477921271
+[17:04:51] [User Authenticator #232/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[17:04:52] [Server thread/INFO]: intersect (/156.253.227.129:43476) lost connection: Disconnected
+[17:21:15] [User Authenticator #233/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
+[17:21:44] [Server thread/INFO]: KittyScan (/156.253.227.23:60034) lost connection: Timed out
+[17:27:36] [User Authenticator #234/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[17:27:36] [Server thread/INFO]: intersect (/156.253.227.129:48804) lost connection: Disconnected
+[17:29:25] [Server thread/WARN]: ChimRatTo moved too quickly! -13.663084882105593,0.0,5.788700153869968
+[17:30:58] [Server thread/WARN]: ChimRatTo was kicked for floating too long!
+[17:30:58] [Server thread/INFO]: ChimRatTo lost connection: Flying is not enabled on this server
+[17:30:58] [Server thread/INFO]: ChimRatTo left the game
+[17:31:17] [User Authenticator #235/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[17:31:17] [Server thread/INFO]: ChimRatTo joined the game
+[17:31:17] [Server thread/INFO]: ChimRatTo[/42.119.246.251:61652] logged in with entity id 288815 at ([world]-45.56585591751797, 44.55383808212873, 178.18525312934597)
+[17:32:02] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[17:32:02] [Server thread/INFO]: ChimRatTo left the game
+[17:32:26] [User Authenticator #236/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[17:32:27] [Server thread/INFO]: ChimRatTo joined the game
+[17:32:27] [Server thread/INFO]: ChimRatTo[/42.119.246.251:61666] logged in with entity id 288884 at ([world]-44.876868366943874, 44.0, 185.7151187140878)
+[17:33:26] [User Authenticator #236/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[17:33:26] [Server thread/INFO]: intersect (/156.253.227.129:36758) lost connection: Disconnected
+[17:34:21] [Server thread/WARN]: ChimRatTo was kicked for floating too long!
+[17:34:21] [Server thread/INFO]: ChimRatTo lost connection: Flying is not enabled on this server
+[17:34:21] [Server thread/INFO]: ChimRatTo left the game
+[17:34:33] [User Authenticator #237/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[17:34:45] [Server thread/INFO]: ChimRatTo joined the game
+[17:34:45] [Server thread/INFO]: ChimRatTo[/42.119.246.251:61676] logged in with entity id 289107 at ([world]-47.96800636488467, 44.44888315306366, 182.40796211000324)
+[17:37:38] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[17:37:38] [Server thread/INFO]: ChimRatTo left the game
+[17:41:33] [User Authenticator #238/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[17:41:33] [Server thread/INFO]: ChimRatTo joined the game
+[17:41:33] [Server thread/INFO]: ChimRatTo[/42.119.246.251:65291] logged in with entity id 289490 at ([world]-73.95665468434176, 41.0, 182.76796465859573)
+[17:45:04] [User Authenticator #239/INFO]: UUID of player intersect is cc65805f-7b1a-3a85-919f-fe1c43306180
+[17:45:04] [Server thread/INFO]: intersect (/156.253.227.129:49956) lost connection: Disconnected
+[17:53:13] [Server thread/INFO]: ChimRatTo has made the advancement [Ice Bucket Challenge]
+[17:53:53] [Server thread/INFO]: ChimRatTo has made the advancement [Hot Stuff]
+[17:59:03] [User Authenticator #240/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[17:59:03] [Server thread/INFO]: hrmanhh joined the game
+[17:59:03] [Server thread/INFO]: hrmanhh[/42.114.248.91:4608] logged in with entity id 292306 at ([world]0.8184676464750594, 48.0625, 139.71185069788277)
+[17:59:13] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> breh
+[17:59:17] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> BREH
+[17:59:22] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> bro u hum
+[17:59:58] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> need lava
+[18:00:00] [Async Chat Thread - #5/INFO]: [Not Secure] <hrmanhh> here
+[18:00:08] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> nvm
+[18:00:08] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> nah nethered
+[18:00:34] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> artificial nether fortress =)))
+[18:01:05] [Async Chat Thread - #5/INFO]: [Not Secure] <hrmanhh> ?
+[18:01:28] [Async Chat Thread - #5/INFO]: [Not Secure] <hrmanhh> BRO
+[18:01:36] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> we hav unused portal
+[18:01:41] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> u can break that
+[18:01:41] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> where
+[18:01:57] [Async Chat Thread - #5/INFO]: [Not Secure] <hrmanhh> or
+[18:01:58] [Async Chat Thread - #5/INFO]: [Not Secure] <ChimRatTo> shiiii
+[18:02:01] [Async Chat Thread - #5/INFO]: [Not Secure] <hrmanhh> use this instead
+[18:06:40] [Server thread/WARN]: ChimRatTo moved too quickly! 8.684229120049508,-7.376735613781733,0.9276164996526859
+[18:10:14] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[18:10:14] [Server thread/INFO]: hrmanhh left the game
+[18:10:41] [User Authenticator #241/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[18:10:41] [Server thread/INFO]: hrmanhh joined the game
+[18:10:41] [Server thread/INFO]: hrmanhh[/42.114.248.91:5633] logged in with entity id 296300 at ([world]6.184120935309374, 70.0, 177.67559588902438)
+[18:16:11] [User Authenticator #242/INFO]: UUID of player sadposting is 47aa3c0b-6834-3c7a-901d-bdd368f02e6c
+[18:16:12] [Server thread/INFO]: sadposting joined the game
+[18:16:12] [Server thread/INFO]: sadposting[/42.114.248.91:58171] logged in with entity id 298194 at ([world]-11.699999988079071, 69.0, 185.03591485267017)
+[18:17:13] [Async Chat Thread - #8/INFO]: [Not Secure] <hrmanhh> anh vuong dep trai vai
+[18:17:23] [Async Chat Thread - #8/INFO]: [Not Secure] <sadposting> say gex
+[18:18:45] [Async Chat Thread - #10/INFO]: [Not Secure] <hrmanhh> ???
+[18:18:50] [Async Chat Thread - #10/INFO]: [Not Secure] <ChimRatTo> bruh
+[18:18:51] [Async Chat Thread - #10/INFO]: [Not Secure] <sadposting> ?
+[18:18:54] [Async Chat Thread - #10/INFO]: [Not Secure] <sadposting> gay vcl
+[18:18:58] [Async Chat Thread - #9/INFO]: [Not Secure] <hrmanhh> aint no way
+[18:18:58] [Async Chat Thread - #10/INFO]: [Not Secure] <sadposting> caught in 4k
+[18:18:59] [Async Chat Thread - #10/INFO]: [Not Secure] <hrmanhh> bro
+[18:19:02] [Async Chat Thread - #10/INFO]: [Not Secure] <hrmanhh> trust me
+[18:19:06] [Async Chat Thread - #9/INFO]: [Not Secure] <hrmanhh> im innocent
+[18:19:27] [Async Chat Thread - #9/INFO]: [Not Secure] <sadposting> ?
+[18:19:27] [Async Chat Thread - #9/INFO]: [Not Secure] <hrmanhh> BRO
+[18:19:37] [Async Chat Thread - #10/INFO]: [Not Secure] <sadposting> certified pedofile
+[18:19:48] [Async Chat Thread - #9/INFO]: [Not Secure] <hrmanhh> :(
+[18:20:17] [Server thread/INFO]: sadposting has made the advancement [A Seedy Place]
+[18:20:42] [User Authenticator #243/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
+[18:20:51] [Server thread/INFO]: sadposting lost connection: Disconnected
+[18:20:51] [Server thread/INFO]: sadposting left the game
+[18:21:00] [Server thread/INFO]: KittyScan (/156.253.227.23:47236) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[18:25:22] [Server thread/INFO]: [Not Secure] [Server] dafuq
+[18:25:24] [Async Chat Thread - #11/INFO]: [Not Secure] <hrmanhh> ?
+[18:25:33] [Server thread/INFO]: [Not Secure] [Server] kittyscan la ai
+[18:25:43] [Async Chat Thread - #11/INFO]: [Not Secure] <hrmanhh> ?
+[18:25:45] [Async Chat Thread - #11/INFO]: [Not Secure] <hrmanhh> who ?
+[18:26:04] [Server thread/INFO]: [Not Secure] [Server] [18:21:00 INFO]: KittyScan (/156.253.227.23:47236) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[18:26:12] [Server thread/INFO]: [Not Secure] [Server] vua thay tren log
+[18:26:24] [Async Chat Thread - #11/INFO]: [Not Secure] <hrmanhh> who know
+[18:26:35] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[18:26:35] [Server thread/INFO]: hrmanhh left the game
+[18:26:59] [Server thread/INFO]: There are 1 of a max of 10 players online: ChimRatTo
+[18:29:45] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[18:29:45] [Server thread/INFO]: ChimRatTo left the game
+[18:29:56] [User Authenticator #244/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[18:29:57] [Server thread/INFO]: ChimRatTo joined the game
+[18:29:57] [Server thread/INFO]: ChimRatTo[/42.119.246.251:65435] logged in with entity id 301212 at ([world_nether]105.53782252631551, 26.36202194900529, 50.78491043895584)
+[18:29:58] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[18:29:58] [Server thread/INFO]: ChimRatTo left the game
+[18:35:33] [User Authenticator #245/INFO]: UUID of player ChimSieuTo is 2ed80e4e-b3d5-3cc9-9e81-a63d63d100b0
+[18:35:34] [Server thread/INFO]: ChimSieuTo joined the game
+[18:35:34] [Server thread/INFO]: ChimSieuTo[/42.119.246.251:65527] logged in with entity id 301233 at ([world]-34.5, 74.0, 121.5)
+[18:37:42] [User Authenticator #246/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[18:37:43] [Server thread/INFO]: hrmanhh joined the game
+[18:37:43] [Server thread/INFO]: hrmanhh[/42.114.248.91:60152] logged in with entity id 301594 at ([world]4.510486508928741, 48.0625, 131.91879942034728)
+[18:37:52] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> WHERE
+[18:38:04] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> BRO
+[18:38:04] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> nether
+[18:38:16] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimSieuTo> nig
+[18:38:17] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> umm
+[18:38:25] [Server thread/INFO]: ChimSieuTo has made the advancement [We Need to Go Deeper]
+[18:38:28] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> i died ?
+[18:38:30] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> HOW
+[18:38:39] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> U JUST GOT ACHIVEMENT
+[18:38:40] [Server thread/INFO]: ChimSieuTo has made the advancement [A Terrible Fortress]
+[18:39:07] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> bruh
+[18:39:10] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> shiet ghast
+[18:39:42] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> what now
+[18:39:44] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> hold on
+[18:39:48] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> go bak my home
+[18:40:04] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> how to save
+[18:40:06] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> we get you a new set
+[18:40:19] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> stay there
+[18:40:23] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> imma go get it
+[18:40:39] [Server thread/INFO]: ChimSieuTo was shot by hrmanhh
+[18:40:45] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> BRUH
+[18:40:47] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> I GOT
+[18:40:48] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimSieuTo> >:)
+[18:40:51] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> FULLy
+[18:40:55] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> CONTROLED
+[18:40:57] [Async Chat Thread - #13/INFO]: [Not Secure] <hrmanhh> BY
+[18:41:01] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> SOME SORT OF
+[18:41:11] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> american police
+[18:41:13] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> UNKNOWN ENTITY
+[18:41:24] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> where r u
+[18:41:36] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> go hom
+[18:42:00] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> still want to save ChimRatTO
+[18:42:01] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> wait
+[18:42:22] [Server thread/INFO]: ChimSieuTo has made the advancement [Cover Me with Diamonds]
+[18:42:22] [Server thread/INFO]: ChimSieuTo has made the advancement [Suit Up]
+[18:42:38] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimSieuTo> bro
+[18:42:54] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimSieuTo> any fire resistant portion
+[18:42:55] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> any cursed item ?
+[18:43:10] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> the armors
+[18:43:19] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimSieuTo> ye
+[18:43:19] [Async Chat Thread - #14/INFO]: [Not Secure] <hrmanhh> any cursed armor ?
+[18:43:55] [Server thread/INFO]: ChimSieuTo has made the advancement [Acquire Hardware]
+[18:44:57] [Server thread/INFO]: ChimSieuTo has made the advancement [Isn't It Iron Pick]
+[18:45:25] [Async Chat Thread - #16/INFO]: [Not Secure] <hrmanhh> gud now ?
+[18:45:43] [Async Chat Thread - #16/INFO]: [Not Secure] <ChimSieuTo> ima go save my real acc
+[18:45:51] [Async Chat Thread - #16/INFO]: [Not Secure] <hrmanhh> bruh ?
+[18:45:55] [Async Chat Thread - #16/INFO]: [Not Secure] <hrmanhh> oh ok
+[18:45:57] [Async Chat Thread - #15/INFO]: [Not Secure] <hrmanhh> bruh
+[18:46:03] [Async Chat Thread - #15/INFO]: [Not Secure] <hrmanhh> bro use alt to save real
+[18:48:22] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[18:48:22] [Server thread/INFO]: hrmanhh left the game
+[18:48:54] [Server thread/INFO]: ChimSieuTo has made the advancement [Monster Hunter]
+[18:52:59] [Server thread/INFO]: ChimSieuTo lost connection: Disconnected
+[18:52:59] [Server thread/INFO]: ChimSieuTo left the game
+[18:53:30] [User Authenticator #247/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[18:53:30] [Server thread/INFO]: ChimRatTo joined the game
+[18:53:30] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49191] logged in with entity id 303891 at ([world_nether]105.53782252631551, 24.138300953783034, 50.78491043895584)
+[18:53:32] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[18:53:32] [Server thread/INFO]: ChimRatTo left the game
+[18:53:38] [User Authenticator #247/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[18:53:38] [Server thread/INFO]: ChimRatTo joined the game
+[18:53:38] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49199] logged in with entity id 303906 at ([world_nether]105.53782252631551, 23.408798512395418, 50.78491043895584)
+[18:53:40] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[18:53:40] [Server thread/INFO]: ChimRatTo left the game
+[18:54:01] [User Authenticator #247/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[18:54:02] [Server thread/INFO]: ChimRatTo joined the game
+[18:54:02] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49208] logged in with entity id 303911 at ([world_nether]105.53782252631551, 21.50079143911131, 50.78491043895584)
+[18:54:02] [Server thread/INFO]: ChimRatTo tried to swim in lava
+[19:21:17] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[19:21:17] [Server thread/INFO]: ChimRatTo left the game
+[19:21:42] [User Authenticator #248/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[19:21:43] [Server thread/INFO]: ChimRatTo joined the game
+[19:21:43] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49306] logged in with entity id 308214 at ([world]59.95414743586307, 69.0, 180.59411767776496)
+[19:21:46] [User Authenticator #248/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
+[19:22:15] [Server thread/INFO]: Disconnecting KittyScan (/156.253.227.141:42684): Took too long to log in
+[19:22:15] [Server thread/INFO]: KittyScan (/156.253.227.141:42684) lost connection: Took too long to log in
+[19:38:44] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[19:38:44] [Server thread/INFO]: ChimRatTo left the game
+[19:38:51] [User Authenticator #249/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[19:38:51] [Server thread/INFO]: ChimRatTo joined the game
+[19:38:51] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49368] logged in with entity id 314486 at ([world_the_end]232.69999998807907, 2.0, 0.30000001192092896)
+[19:42:08] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[19:42:08] [Server thread/INFO]: ChimRatTo left the game
+[19:42:22] [User Authenticator #250/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[19:42:22] [Server thread/INFO]: ChimRatTo joined the game
+[19:42:22] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49385] logged in with entity id 316741 at ([world_the_end]230.0304536325818, 1.875, -1.227520142448716)
+[19:50:00] [Server thread/INFO]: ChimRatTo lost connection: Timed out
+[19:50:00] [Server thread/INFO]: ChimRatTo left the game
+[19:50:20] [User Authenticator #251/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
+[19:50:20] [Server thread/INFO]: ChimRatTo joined the game
+[19:50:20] [Server thread/INFO]: ChimRatTo[/42.119.246.251:49677] logged in with entity id 322360 at ([world]-45.24073412966146, 45.0, 179.9507460718422)
+[19:51:07] [Server thread/INFO]: ChimRatTo lost connection: Disconnected
+[19:51:07] [Server thread/INFO]: ChimRatTo left the game
+[20:25:51] [User Authenticator #252/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[20:25:52] [Server thread/INFO]: hrmanhh joined the game
+[20:25:52] [Server thread/INFO]: hrmanhh[/42.114.248.91:15124] logged in with entity id 322481 at ([world]18.37620893794672, 55.0, 153.51105432843332)
+[20:47:11] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[20:47:11] [Server thread/INFO]: hrmanhh left the game
+[20:59:35] [User Authenticator #253/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[20:59:35] [Server thread/INFO]: hrmanhh joined the game
+[20:59:35] [Server thread/INFO]: hrmanhh[/42.114.248.91:1928] logged in with entity id 328473 at ([world]22.343422637591253, 55.0, 154.60179998071354)
+[21:01:42] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[21:01:43] [Server thread/INFO]: hrmanhh left the game
+[21:10:27] [User Authenticator #254/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[21:10:27] [Server thread/INFO]: hrmanhh joined the game
+[21:10:27] [Server thread/INFO]: hrmanhh[/42.114.248.91:23950] logged in with entity id 328787 at ([world]23.385363912419265, 55.0, 150.1036087412505)
+[21:10:42] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[21:10:42] [Server thread/INFO]: hrmanhh left the game
+[21:32:48] [User Authenticator #255/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
+[21:32:48] [Server thread/INFO]: hrmanhh joined the game
+[21:32:48] [Server thread/INFO]: hrmanhh[/42.114.248.91:38909] logged in with entity id 328826 at ([world]20.7659290203525, 56.0, 142.28453620172758)
+[21:43:47] [Server thread/INFO]: hrmanhh lost connection: Disconnected
+[21:43:47] [Server thread/INFO]: hrmanhh left the game
+[23:57:11] [Server thread/INFO]: There are 0 of a max of 10 players online: 
+[23:57:13] [Server thread/INFO]: Stopping the server
+[23:57:13] [Server thread/INFO]: Stopping server
+[23:57:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.3
+[23:57:13] [Server thread/INFO]: Saving players
+[23:57:13] [Server thread/INFO]: Saving worlds
+[23:57:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 142 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:57:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saved 60 block chunks, 105 entity chunks, 0 poi chunks in world 'world_nether' in 0.18s
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:57:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 35 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:57:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:57:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:57:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:57:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:57:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:57:13] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[23:57:13] [Server thread/INFO]: All I/O tasks to complete
+[23:57:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:57:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
