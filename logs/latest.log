@@ -1,225 +1,35 @@
-[00:30:04] [User Authenticator #20/INFO]: UUID of player Dekuran_VN is 1a522bea-fcf3-3246-8a37-654f29d2c8fd
-[00:30:04] [Server thread/INFO]: Dekuran_VN joined the game
-[00:30:04] [Server thread/INFO]: Dekuran_VN[/123.16.144.204:54997] logged in with entity id 80485 at ([world_the_end]231.2601286385793, 1.875, -0.37579108008545054)
-[00:38:50] [Server thread/INFO]: Dekuran_VN has made the advancement [Wax On]
-[00:46:00] [User Authenticator #21/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[00:46:00] [Server thread/INFO]: hrmanhh joined the game
-[00:46:00] [Server thread/INFO]: hrmanhh[/123.16.144.204:55043] logged in with entity id 84570 at ([world]-49.456407043579055, 104.0, 256.8380021900533)
-[00:51:46] [Server thread/INFO]: Dekuran_VN has made the advancement [A Throwaway Joke]
-[00:51:53] [User Authenticator #22/INFO]: UUID of player ChimRatTo is 4bc2e845-216b-31a1-bdbc-5967353ab1d9
-[00:51:53] [Server thread/INFO]: ChimRatTo joined the game
-[00:51:53] [Server thread/INFO]: ChimRatTo[/42.119.246.251:62319] logged in with entity id 86736 at ([world]1750.020921665362, -20.0, -1091.1990106281594)
-[00:52:02] [Async Chat Thread - #6/INFO]: [Not Secure] <hrmanhh> bruh
-[00:52:02] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> xicalo
-[00:52:54] [Async Chat Thread - #6/INFO]: [Not Secure] <ChimRatTo> at the end portal rn
-[00:53:09] [Server thread/INFO]: Dekuran_VN issued server command: /tellraw hrmanhh
-[00:58:11] [Async Chat Thread - #9/INFO]: [Not Secure] <hrmanhh> :D
-[01:04:06] [Async Chat Thread - #10/INFO]: [Not Secure] <hrmanhh> ur not alone vuong
-[01:04:24] [Async Chat Thread - #10/INFO]: [Not Secure] <ChimRatTo> breh
-[01:04:27] [Async Chat Thread - #10/INFO]: [Not Secure] <ChimRatTo> where u
-[01:04:33] [Async Chat Thread - #10/INFO]: [Not Secure] <hrmanhh> dunno
-[01:05:03] [Async Chat Thread - #11/INFO]: [Not Secure] <ChimRatTo> breh
-[01:05:05] [Async Chat Thread - #11/INFO]: [Not Secure] <Dekuran_VN> waxed
-[01:05:32] [Async Chat Thread - #11/INFO]: [Not Secure] <ChimRatTo> breh give me back
-[01:05:37] [Server thread/INFO]: Dekuran_VN was slain by Husk
-[01:05:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Dekuran_VN> i took nathin
-[01:06:54] [Async Chat Thread - #12/INFO]: [Not Secure] <Dekuran_VN> take my stuffp ls
-[01:07:17] [Server thread/INFO]: Dekuran_VN tried to swim in lava
-[01:07:20] [Server thread/INFO]: ChimRatTo has reached the goal [Sky's the Limit]
-[01:07:25] [Async Chat Thread - #12/INFO]: [Not Secure] <ChimRatTo> breh
-[01:07:30] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimRatTo> ill take all
-[01:07:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Dekuran_VN> pick a number from 1-10
-[01:07:46] [Async Chat Thread - #12/INFO]: [Not Secure] <hrmanhh> HELL NO
-[01:07:49] [Async Chat Thread - #13/INFO]: [Not Secure] <ChimRatTo> 11
-[01:07:55] [Server thread/INFO]: Dekuran_VN issued server command: /damage ChimRatTo 11
-[01:07:55] [Server thread/INFO]: [Dekuran_VN: Applied 11.0 damage to ChimRatTo]
-[01:08:18] [Server thread/INFO]: Dekuran_VN issued server command: /say wawawa
-[01:08:18] [Async Chat Thread - #12/INFO]: [Not Secure] [Dekuran_VN] wawawa
-[01:08:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Dekuran_VN> ha
-[01:08:31] [Server thread/INFO]: hrmanhh issued server command: /say >:(
-[01:08:31] [Async Chat Thread - #12/INFO]: [Not Secure] [hrmanhh] >:(
-[01:09:58] [Async Chat Thread - #15/INFO]: [Not Secure] <ChimRatTo> bro has a bunch of enchanted book
-[01:10:06] [Async Chat Thread - #15/INFO]: [Not Secure] <Dekuran_VN> im cooking
-[01:10:11] [Async Chat Thread - #15/INFO]: [Not Secure] <Dekuran_VN> help
-[01:10:13] [Async Chat Thread - #14/INFO]: [Not Secure] <Dekuran_VN> im stuck
-[01:10:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Dekuran_VN> dafu
-[01:10:54] [Async Chat Thread - #14/INFO]: [Not Secure] <ChimRatTo> =)))
-[01:11:10] [Async Chat Thread - #15/INFO]: [Not Secure] <Dekuran_VN> ma stuff
-[01:13:01] [Async Chat Thread - #16/INFO]: [Not Secure] <Dekuran_VN> look
-[01:13:10] [Async Chat Thread - #16/INFO]: [Not Secure] <ChimRatTo> >:(
-[01:13:29] [Server thread/INFO]: ChimRatTo has made the advancement [Wax Off]
-[01:13:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Dekuran_VN> gimme da
-[01:13:39] [Async Chat Thread - #16/INFO]: [Not Secure] <ChimRatTo> look
-[01:13:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Dekuran_VN> shear
-[01:13:45] [Server thread/INFO]: Dekuran_VN has made the advancement [Wax Off]
-[01:15:02] [Server thread/INFO]: Dekuran_VN issued server command: /damage ChimRatTo 1
-[01:15:02] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to ChimRatTo]
-[01:15:10] [Async Chat Thread - #18/INFO]: [Not Secure] <hrmanhh> admin abuse
-[01:15:31] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> manh did it
-[01:15:33] [Server thread/INFO]: Dekuran_VN issued server command: /damage ChimRatTo 1
-[01:15:33] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to ChimRatTo]
-[01:15:39] [Async Chat Thread - #18/INFO]: [Not Secure] <ChimRatTo> tf
-[01:15:39] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:39] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> ouch
-[01:15:43] [Async Chat Thread - #19/INFO]: [Not Secure] <Dekuran_VN> ouch
-[01:15:44] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:44] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:45] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:45] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:45] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:50] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:50] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:51] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:51] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:52] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:52] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:53] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:53] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:53] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:53] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:54] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:54] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:54] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:54] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:55] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:55] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:15:55] [Server thread/INFO]: Dekuran_VN issued server command: /damage Dekuran_VN 1
-[01:15:55] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to Dekuran_VN]
-[01:16:00] [Async Chat Thread - #18/INFO]: [Not Secure] <hrmanhh> ./kill
-[01:16:05] [Async Chat Thread - #19/INFO]: [Not Secure] <ChimRatTo> manh once said: no cheat
-[01:16:12] [Async Chat Thread - #19/INFO]: [Not Secure] <hrmanhh> bruh
-[01:16:17] [Async Chat Thread - #18/INFO]: [Not Secure] <hrmanhh> LITERALLY
-[01:16:23] [Async Chat Thread - #18/INFO]: [Not Secure] <hrmanhh> AINT CHEATING
-[01:16:32] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> cheat is for kids
-[01:16:51] [Async Chat Thread - #19/INFO]: [Not Secure] <Dekuran_VN> we aint kids
-[01:16:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> we aint cheating
-[01:17:07] [Async Chat Thread - #19/INFO]: [Not Secure] <Dekuran_VN> we're fucking manh belly
-[01:17:07] [Async Chat Thread - #19/INFO]: [Not Secure] <ChimRatTo> gomen
-[01:17:11] [Async Chat Thread - #18/INFO]: [Not Secure] <ChimRatTo> i'm baby
-[01:17:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> where is the portal
-[01:18:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> my slimeballs
-[01:18:32] [Async Chat Thread - #18/INFO]: [Not Secure] <hrmanhh> :v
-[01:18:36] [Async Chat Thread - #20/INFO]: [Not Secure] <Dekuran_VN> balls
-[01:18:36] [Async Chat Thread - #20/INFO]: [Not Secure] <ChimRatTo> bruh'
-[01:18:42] [Async Chat Thread - #20/INFO]: [Not Secure] <ChimRatTo> sigma ball
-[01:18:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Dekuran_VN> show me da way
-[01:18:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Dekuran_VN> to da portal
-[01:19:08] [Async Chat Thread - #20/INFO]: [Not Secure] <ChimRatTo> wait
-[01:23:47] [User Authenticator #23/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
-[01:24:16] [Server thread/INFO]: KittyScan (/156.253.227.23:35664) lost connection: Timed out
-[01:26:08] [Server thread/INFO]: Dekuran_VN experienced kinetic energy
-[01:26:16] [Async Chat Thread - #22/INFO]: [Not Secure] <ChimRatTo> wut
-[01:26:29] [Async Chat Thread - #22/INFO]: [Not Secure] <Dekuran_VN> i hit manh's belly
-[01:27:41] [Async Chat Thread - #24/INFO]: [Not Secure] <Dekuran_VN> where ma pickaxe
-[01:27:54] [Async Chat Thread - #24/INFO]: [Not Secure] <ChimRatTo> dunno
-[01:28:27] [Server thread/INFO]: Dekuran_VN was killed while trying to hurt hrmanhh
-[01:28:39] [Async Chat Thread - #24/INFO]: [Not Secure] <Dekuran_VN> he killed me
-[01:28:41] [Async Chat Thread - #24/INFO]: [Not Secure] <hrmanhh> i do nothing
-[01:28:46] [Async Chat Thread - #23/INFO]: [Not Secure] <hrmanhh> aint no way
-[01:29:06] [Async Chat Thread - #23/INFO]: [Not Secure] <ChimRatTo> bro irritated manh
-[01:30:51] [Server thread/INFO]: hrmanhh issued server command: /tps
-[01:31:20] [Server thread/INFO]: Dekuran_VN issued server command: /damage hrmanhh 1
-[01:31:20] [Server thread/INFO]: [Dekuran_VN: Applied 1.0 damage to hrmanhh]
-[01:31:33] [Server thread/INFO]: hrmanhh issued server command: /damage hrmanhh 10
-[01:31:33] [Server thread/INFO]: [hrmanhh: Applied 10.0 damage to hrmanhh]
-[01:31:48] [Server thread/INFO]: Dekuran_VN issued server command: /spark tps\
-[01:31:54] [Server thread/INFO]: hrmanhh issued server command: /tps
-[01:32:06] [Server thread/INFO]: hrmanhh issued server command: /spark tps
-[01:33:12] [Server thread/INFO]: hrmanhh lost connection: Disconnected
-[01:33:12] [Server thread/INFO]: hrmanhh left the game
-[01:33:28] [User Authenticator #24/INFO]: UUID of player hrmanhh is 28e28c7c-e73d-3da4-bb8d-670f100d31c9
-[01:33:29] [Server thread/INFO]: hrmanhh joined the game
-[01:33:29] [Server thread/INFO]: hrmanhh[/123.16.144.204:55934] logged in with entity id 109732 at ([world]1963.8620581637667, 67.0, 705.856810282198)
-[01:34:13] [Async Chat Thread - #25/INFO]: [Not Secure] <Dekuran_VN> free exp
-[01:34:20] [Async Chat Thread - #25/INFO]: [Not Secure] <ChimRatTo> bruh
-[01:34:37] [Async Chat Thread - #25/INFO]: [Not Secure] <ChimRatTo> i'm auto clicking
-[01:36:46] [Server thread/INFO]: Whitelist is now turned on
-[01:36:51] [Server thread/INFO]: Added Dekuran_VN to the whitelist
-[01:37:01] [Server thread/INFO]: hrmanhh issued server command: /whitelist add ChimRatTo
-[01:37:01] [Server thread/INFO]: [hrmanhh: Added ChimRatTo to the whitelist]
-[01:37:05] [Server thread/INFO]: hrmanhh issued server command: /whitelist add hrmanhh
-[01:37:05] [Server thread/INFO]: [hrmanhh: Added hrmanhh to the whitelist]
-[01:37:14] [Server thread/INFO]: hrmanhh issued server command: /whitelist add sadposting
-[01:37:14] [Server thread/INFO]: [hrmanhh: Added sadposting to the whitelist]
-[01:37:44] [Async Chat Thread - #27/INFO]: [Not Secure] <hrmanhh> something's wrong
-[01:37:48] [Async Chat Thread - #28/INFO]: [Not Secure] <hrmanhh> we hav to do it
-[01:38:16] [Async Chat Thread - #28/INFO]: [Not Secure] <ChimRatTo> deku
-[01:38:24] [Server thread/INFO]: hrmanhh issued server command: /whitelist add ChimSieuTo
-[01:38:24] [Server thread/INFO]: [hrmanhh: Added ChimSieuTo to the whitelist]
-[01:38:37] [Server thread/INFO]: hrmanhh issued server command: /whitelist add 1223nij
-[01:38:37] [Server thread/INFO]: [hrmanhh: Added 1223nij to the whitelist]
-[01:38:51] [Async Chat Thread - #28/INFO]: [Not Secure] <ChimRatTo> DEKU
-[01:38:52] [Server thread/INFO]: hrmanhh issued server command: /whitelist add trung
-[01:38:52] [Server thread/INFO]: [hrmanhh: Added Trung to the whitelist]
-[01:39:11] [Server thread/INFO]: hrmanhh issued server command: /spark tps
-[01:39:31] [Server thread/INFO]: hrmanhh issued server command: /whitelist add minhdesu
-[01:39:31] [Server thread/INFO]: [hrmanhh: Added minhdesu to the whitelist]
-[01:39:36] [Server thread/INFO]: hrmanhh issued server command: /whitelist add mindesu
-[01:39:36] [Server thread/INFO]: [hrmanhh: Added mindesu to the whitelist]
-[01:39:48] [Server thread/INFO]: [Not Secure] [Server] gay
-[01:39:51] [Server thread/INFO]: hrmanhh issued server command: /reload
-[01:39:51] [Server thread/INFO]: hrmanhh: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:40:04] [Async Chat Thread - #28/INFO]: [Not Secure] <ChimRatTo> giv me 3 lapis
-[01:40:31] [Server thread/INFO]: Gave 2 [Lapis Lazuli] to ChimRatTo
-[01:40:37] [Server thread/INFO]: [Not Secure] [Server] only 2
-[01:40:41] [Async Chat Thread - #28/INFO]: [Not Secure] <ChimRatTo> bruh
-[01:40:48] [Server thread/INFO]: [Not Secure] [Server] ran out of resourses
-[01:41:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> when done using da machine tell me
-[01:41:11] [Async Chat Thread - #30/INFO]: [Not Secure] <ChimRatTo> done
-[01:41:30] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> anyways some1 from hungary with da name KittyScan tried to log into da server multiple times
-[01:41:35] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> unluckily hes from EU
-[01:41:47] [Async Chat Thread - #30/INFO]: [Not Secure] <Dekuran_VN> so ofc connecting to a AP server is one of the dumbest shit he can do
-[01:41:52] [Async Chat Thread - #30/INFO]: [Not Secure] <Dekuran_VN> so he got timed out
-[01:41:55] [Async Chat Thread - #28/INFO]: [Not Secure] <hrmanhh> bro
-[01:41:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Dekuran_VN> now hes locked out
-[01:41:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> gg
-[01:42:23] [Async Chat Thread - #30/INFO]: [Not Secure] <hrmanhh> I can login to US server tho
-[01:42:42] [Async Chat Thread - #28/INFO]: [Not Secure] <ChimRatTo> where manh
-[01:42:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Dekuran_VN> hol up guys
-[01:42:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> wait 5m
-[01:42:58] [Async Chat Thread - #28/INFO]: [Not Secure] <Dekuran_VN> gonna restart the vps
-[01:43:02] [Async Chat Thread - #30/INFO]: [Not Secure] <Dekuran_VN> performance issues
-[01:43:04] [Server thread/INFO]: Dekuran_VN lost connection: Disconnected
-[01:43:04] [Server thread/INFO]: Dekuran_VN left the game
-[01:43:42] [Server thread/INFO]: [Not Secure] [Server] nigger say what
-[01:43:46] [Async Chat Thread - #30/INFO]: [Not Secure] <hrmanhh> twhat
-[01:43:50] [Server thread/INFO]: [Not Secure] [Server] ur a nigger
-[01:43:51] [Server thread/INFO]: Stopping the server
-[01:43:51] [Server thread/INFO]: Stopping server
-[01:43:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
-[01:43:51] [Server thread/INFO]: Saving players
-[01:43:51] [Server thread/INFO]: ChimRatTo lost connection: Server closed
-[01:43:52] [Server thread/INFO]: ChimRatTo left the game
-[01:43:52] [Server thread/INFO]: hrmanhh lost connection: Server closed
-[01:43:52] [Server thread/INFO]: hrmanhh left the game
-[01:43:52] [Server thread/INFO]: Saving worlds
-[01:43:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:43:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:43:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:43:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Saved 2241 block chunks, 1196 entity chunks, 16 poi chunks in world 'world' in 4.17s
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:43:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Saved 63 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:43:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:43:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:43:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:43:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:43:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:43:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:43:56] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[01:43:56] [Server thread/INFO]: All I/O tasks to complete
-[01:43:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:43:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[09:31:26] [Server thread/INFO]: There are 0 of a max of 15 players online: 
+[09:31:29] [Server thread/INFO]: Stopping the server
+[09:31:29] [Server thread/INFO]: Stopping server
+[09:31:29] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[09:31:29] [Server thread/INFO]: Saving players
+[09:31:29] [Server thread/INFO]: Saving worlds
+[09:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:31:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:31:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:31:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 145 entity chunks, 0 poi chunks in world 'world' in 0.14s
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[09:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Saved 71 block chunks, 133 entity chunks, 0 poi chunks in world 'world_nether' in 0.28s
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[09:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[09:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[09:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:31:30] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[09:31:30] [Server thread/INFO]: All I/O tasks to complete
+[09:31:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[09:31:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
