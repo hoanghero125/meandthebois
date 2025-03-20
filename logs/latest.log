@@ -1,6 +1,72 @@
-[00:57:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-124.04.1; Ubuntu null) on Linux 6.8.0-55-generic (amd64)
-[00:57:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-188-main@8de7e35 (2025-03-03T16:59:40Z) for Minecraft 1.21.4
-[00:57:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:57:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[00:57:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.6.0)
+[00:02:44] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:03:52] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:03:52] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:03:52] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:08:17] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:22:41] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:25:50] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:25:50] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:26:41] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:29:51] [User Authenticator #28/INFO]: UUID of player KittyScan is c1a0b203-8d1a-3980-970f-c7777f89a4d6
+[00:29:51] [Server thread/INFO]: Disconnecting KittyScan (/156.253.227.141:48824): You are not whitelisted on this server!
+[00:29:51] [Server thread/INFO]: KittyScan (/156.253.227.141:48824) lost connection: You are not whitelisted on this server!
+[00:40:33] [User Authenticator #29/INFO]: UUID of player hoangtuanviet is ccfbdae2-89bb-3da6-b715-b45c80dc0f0d
+[00:40:34] [Server thread/INFO]: hoangtuanviet joined the game
+[00:40:34] [Server thread/INFO]: hoangtuanviet[/1.54.42.236:38682] logged in with entity id 192349 at ([world]15.526818271591353, 64.0, 168.26644399641788)
+[00:40:37] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:40:37] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:40:38] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:40:41] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:40:42] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:40:42] [Server thread/WARN]: Siuuuuiuu moved wrongly!
+[00:45:30] [Server thread/INFO]: hoangtuanviet lost connection: Disconnected
+[00:45:30] [Server thread/INFO]: hoangtuanviet left the game
+[00:51:55] [Server thread/INFO]: There are 1 of a max of 15 players online: Siuuuuiuu
+[00:52:13] [Server thread/INFO]: [Not Secure] [Server] bonjour
+[00:52:16] [Server thread/INFO]: [Not Secure] [Server] u there?
+[00:52:28] [Async Chat Thread - #42/INFO]: [Not Secure] <Siuuuuiuu> ?
+[00:52:35] [Server thread/INFO]: [Not Secure] [Server] server is about to close
+[00:52:39] [Server thread/INFO]: [Not Secure] [Server] to upgrade
+[00:52:49] [Server thread/INFO]: [Not Secure] [Server] should be back online somewhere tonight
+[00:52:54] [Server thread/INFO]: [Not Secure] [Server] 21/3/2025
+[00:53:12] [Async Chat Thread - #42/INFO]: [Not Secure] <Siuuuuiuu> how long
+[00:53:24] [Server thread/INFO]: [Not Secure] [Server] so i will close soon to save the data
+[00:53:34] [Server thread/INFO]: [Not Secure] [Server] feel free to donate if u want :icant:
+[00:54:08] [Async Chat Thread - #42/INFO]: [Not Secure] <Siuuuuiuu> maybe
+[00:54:11] [Server thread/INFO]: [Not Secure] [Server] finish playing?
+[00:54:14] [Server thread/INFO]: Siuuuuiuu lost connection: Disconnected
+[00:54:14] [Server thread/INFO]: Siuuuuiuu left the game
+[00:54:19] [Server thread/INFO]: Stopping the server
+[00:54:19] [Server thread/INFO]: Stopping server
+[00:54:19] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[00:54:19] [Server thread/INFO]: Saving players
+[00:54:19] [Server thread/INFO]: Saving worlds
+[00:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 105 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:54:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Saved 709 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.81s
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:54:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 20 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:54:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:54:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:54:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:54:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:54:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:54:20] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:54:20] [Server thread/INFO]: All I/O tasks to complete
+[00:54:20] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:54:20] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
