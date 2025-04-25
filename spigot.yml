@@ -169,6 +169,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  enable-spam-exclusions: false
 advancements:
   disable-saving: false
   disabled:
